@@ -7,6 +7,7 @@ gem 'sinatra'
 gem 'rake'
 gem 'thin'
 gem 'shotgun'
+gem 'date'
 gem 'pry'
 gem 'require_all'
     
